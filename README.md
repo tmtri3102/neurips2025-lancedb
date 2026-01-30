@@ -11,3 +11,5 @@
 Toggle LanceDB Vector search should call the /search endpoint on server terminal.
 
 I embedded all 5772 NeurIPS papers into LanceDB. You can replace the database with your own data by changing the `DB_PATH` variable in `server.py`.
+
+![Demo](demo.gif)
